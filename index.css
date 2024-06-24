@@ -1,0 +1,335 @@
+.whole{
+    border: 1px solid black;
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    background-color: black;
+}
+.wow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 0.25s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+
+.bwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+.cwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1.25s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+.dwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.75s;
+    animation-delay: 2s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+
+
+
+
+
+.ewow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+.fwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1.25s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+.gwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1.5s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
+.hwow{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 20px;
+    height: 50px;
+    background-color: aliceblue;
+
+    animation-name: colorchange;
+    position: relative;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    animation-delay: 1.75s;
+}
+@keyframes colorchange {
+    0%{
+        background-color: rgb(255, 255, 255);
+        top: 0px;
+        left: 0;
+    }
+    25%{
+        background-color: rgb(255, 255, 255);
+        top: 25%;
+        left: 0;
+    }
+    50%{
+        background-color: rgb(255, 255, 255);
+        top: 50%;
+        left: 0;
+    }
+    75%{
+        background-color: rgb(255, 255, 255);
+        top: 75%;
+        left: 0;
+    }
+    100%{
+        background-color: rgb(255, 255, 255);
+        top: 100%;
+        left: 0;
+    }
+}
